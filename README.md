@@ -4,6 +4,10 @@ Web Technologies used: HTML, CSS, JS.
 
 IDE: VS-Code
 
+## Video Demo Link:-
+
+https://youtu.be/zE-V-c3BDbU
+
 ## Industry :
 Lifestyle
 
