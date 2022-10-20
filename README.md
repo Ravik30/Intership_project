@@ -44,6 +44,6 @@ End :
 
 Azure Service, Static Web Apps
 
-Other Azure Technologies : App Service
+Other Azure Technologies : web Service
 
 ![image](https://user-images.githubusercontent.com/96697080/196999406-7f0a5875-8c1e-4f5b-88b8-8c997ea9690e.png)
