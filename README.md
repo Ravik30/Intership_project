@@ -34,7 +34,7 @@ End :
 
 ## Primary Azure Technology :
 
-Azure Bot Service, QnA Maker, Static Web Apps
+Azure Service, Static Web Apps
 
 Other Azure Technologies : App Service
 
