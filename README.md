@@ -42,7 +42,7 @@ End :
 
 ## Primary Azure Technology :
 
-Azure Service, Static Web Apps
+ QnA Maker, Static Web Apps
 
 Other Azure Technologies : App Service
 
