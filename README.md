@@ -1,6 +1,6 @@
-# E-commerce Websites
+# Microsoft-Future-Ready-Talent
 
-Web Technologies used: HTML, CSS, JS.
+Web Technologies used: HTML, CSS, Javascript.
 
 IDE: VS-Code
 
@@ -9,24 +9,21 @@ IDE: VS-Code
 https://youtu.be/zE-V-c3BDbU
 
 ## Website Link :- 
-
 https://gray-sand-04b852610.2.azurestaticapps.net
 
 ## Industry :
 Lifestyle
 
-## Project Title :
-E-Commerce Website.
+## Project Title : 
+style Shopping Website.
 
 ## Problem Statement/Opportunity :
 
-An e-commerce company wants to build a sample Front End prototype website for their business as the online shopping industry has been growing at an incredible rate, and so have ecommerce challenges. To build a whole website they have chosen Azure Cloud Platform. Build a website that have: Home Page, Product detail Page, Cart, Product Category Page, Checkout Page along deployed on Website for customers help.
+A small business wants to build a smart designed website as the online shopping industry has been growing at an incredible rate in today's world. To build a whole website they have chosen Azure Cloud Platform. Build a website that have awesome features like banner text photos, slinding effects, smooth scrolling navigation, gallery light box effect, and much more to serve their customers.
 
 ## Project Description :
 
-Core Idea of Project is to build an sample prototype E-Commerce Website for a business company with the help of HTML, CSS, JAVASCRIPT. The business-to-consumer aspect of product commerce (e-commerce) is the most visible business use of the World Wide Web.
-
-I have created an online store named " Apna Market " using HTML, CSS, and Javascript. It helps people to choose and explore trendy outfits according to their daily style needs. This smart and elegantly designed website has awesome features like banner text slider, eye-catching hover effects, smooth scrolling navigation, gallery light box effect, and much more. This website is a 100% responsive cross-browser template, compatible on all devices, and displayed on all screen sizes. This project is created both for sellers and customers as it has an attractive design to draw customers' attention and helps the seller to showcase their best products. This way a customer can get any product at his/her doorstep without actually stepping out of the home. I am using Microsoft Azure with Github to deploy the website and finish this project.
+I have created an online store named " Apna Market " using HTML, CSS, and Javascript. It helps people to choose and explore trendy outfits according to their daily style needs. This smart and elegantly designed website has awesome features like banner text photos, slinding effects, smooth scrolling navigation, gallery light box effect, and much more. This website is a 100% responsive cross-browser template, compatible on all devices, and displayed on all screen sizes. This project is created both for sellers and customers as it has an attractive design to draw customers' attention and helps the seller to showcase their best products. This way a customer can get any product at his/her doorstep without actually stepping out of the home. I am using Microsoft Azure with Github to deploy the website and finish this project.
 
 ## Screen-shot :
 
