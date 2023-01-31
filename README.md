@@ -42,3 +42,7 @@ End :
 Other Azure Technologies : App Service
 
 ![image](https://user-images.githubusercontent.com/96697080/196999406-7f0a5875-8c1e-4f5b-88b8-8c997ea9690e.png)
+
+Video Demo Link:-https://youtu.be/zE-V-c3BDbU
+
+Website Link :- https://gray-sand-04b852610.2.azurestaticapps.net
