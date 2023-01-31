@@ -1,21 +1,19 @@
 # Microsoft-Future-Ready-Talent
+This is a E-commerce website design
 
 Web Technologies used: HTML, CSS, Javascript.
 
 IDE: VS-Code
 
-## Video Demo Link:-
+Video Demo Link:-https://youtu.be/zE-V-c3BDbU
 
-https://youtu.be/zE-V-c3BDbU
-
-## Website Link :- 
-https://gray-sand-04b852610.2.azurestaticapps.net
+Website Link :- https://gray-sand-04b852610.2.azurestaticapps.net
 
 ## Industry :
 Lifestyle
 
 ## Project Title : 
-style Shopping Website.
+Style Shopping Website.
 
 ## Problem Statement/Opportunity :
 
